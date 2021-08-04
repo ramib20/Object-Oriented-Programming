@@ -2,7 +2,6 @@
 /**
 * interface class
 * @author Rami Bouhafs
-* @version 903591700
 */
 public interface Summarizable {
     /**
