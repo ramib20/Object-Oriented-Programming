@@ -3,7 +3,6 @@
  * dog class
  *
  * @author Rami Bouhafs
- * @version 903591700
  */
 public class Dog extends Pet implements Treatable {
 
