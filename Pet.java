@@ -4,7 +4,6 @@
  * pet class
  *
  * @author Rami Bouhafs
- * @version 903591700
  */
 public abstract class Pet { // abstract keyword prevents instances from being created
 
