@@ -1,5 +1,3 @@
-//I worked on the homework assignment alone, using only course materials.
-
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
@@ -25,7 +23,6 @@ import javafx.scene.control.ComboBox;
 /**
 * this class includes all our buttons, UI elements, and their functions
 *@author Rami Bouhafs
-*@version 903591700
 */
 public class StarterUpper extends Application {
 
