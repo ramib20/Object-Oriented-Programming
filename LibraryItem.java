@@ -4,7 +4,6 @@
 * libraryitem class
 *
 * @author Rami Bouhafs
-* @version 903591700
 */
 public abstract class LibraryItem implements Summarizable, Comparable<LibraryItem> {
 
