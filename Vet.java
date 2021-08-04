@@ -1,9 +1,7 @@
-//I worked on the homework assignment alone, using only course materials.
 /**
 * vet class
 *
 * @author Rami Bouhafs
-* @version 903591700
 */
 public class Vet {
 /**
